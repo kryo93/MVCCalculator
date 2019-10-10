@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="DemoMVC.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoMVC_war</output-path>
+    <root id="root">
+      <element id="archive" name="DemoMVC.war" />
+    </root>
+  </artifact>
+</component>
